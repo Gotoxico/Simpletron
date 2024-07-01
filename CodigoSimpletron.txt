@@ -1,0 +1,24 @@
+1000
+1001
+2000
+3001
+1002
+3102
+1003
+3203
+1004
+3304
+4114
+2105
+1105
+4300
+1005
+3305
+2106
+1106
+4300
+-99999
+
+Programa para ler dois números, colocar o primeiro no acumulador e somar com o segundo, depois ler outro e subtrair do acumulador, ler outro e dividir o acumulador e finalizando as operações básicas ler outro e multiplicar pelo acumulador. Após tudo isto, checar se o acumulador é negativo, se for saltar para a instrução na linha/célula 14, que irá ler mais um número, multiplicar pelo acumulador, armazenar na célula de memória 06 e depois exibir no terminal, no entanto, se não for negativo, irá apenas armazenar na célula de memória 05, exibir no terminal e encerrar o programa.
+
+Obs: Utilizei uma estrutura como célula de memória, a fim de poder armazenar instruções e dados no mesmo index do vetor.
